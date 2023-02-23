@@ -1,0 +1,64 @@
+.all{
+    margin: 4rem 6rem;
+    display: flex;
+}
+.quienes-conteiner{
+    justify-content: start;
+    flex-direction: column;
+}
+.quienes-conteiner h1{
+    padding-bottom: 1rem;
+    font-size: 2.2rem;
+    display: flex;
+    align-items: start;
+    margin-top: 4.5rem;
+    width: 1000px;
+
+}
+.quienes-conteiner p {
+    padding-bottom: 2rem;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: start;
+    text-align: start;
+    padding-left: 2rem;
+    width: 1000px;
+}
+.imagen-quienes{
+    width: 450px;
+    margin-left: 25px;
+    margin-top: 100px;
+
+
+}
+@media only screen and (max-width: 500px) and (min-width: 341px){
+    .all{
+        margin: 2rem 2rem;
+    }
+    .quienes-conteiner h1{
+        padding-bottom: 1rem;
+        font-size: 20px;
+        align-items: start;
+        justify-content: space-between;
+        margin-top: 2px;
+        width: 341px;
+    
+    }
+    .quienes-conteiner p{
+        padding-bottom: 2rem;
+        font-size: 15px;
+        align-items: center;
+        justify-content: space-between;
+        text-align: start;
+        padding-left: 2rem;
+        width: 341px;
+    }
+    
+    .imagen-quienes{
+        width: 150px;
+        height: 150px;
+        margin-top: 10rem;
+        width: 50%;
+    }
+    
+}
