@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Piscina from "../components/Piscina";
 import Footer from "../components/Footer"
+import BotonWp from "../components/botonwp";
 
 function Inicio (){
  return (
@@ -14,7 +15,8 @@ function Inicio (){
       title="Tu piscina lista en 30 dias!"
       text="¿Listo para tu nueva piscina?"
       url="/"
-      /> 
+      />
+      <BotonWp/>
       <Piscina />
       <Clientes />
       <Footer />

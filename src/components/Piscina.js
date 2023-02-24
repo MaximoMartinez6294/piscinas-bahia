@@ -27,7 +27,7 @@ const Piscina = () => {
             img1={Piscina3}
             img2={Piscina4}
             />
-
+        
         </div>
 
     )

@@ -33,6 +33,7 @@
 }
 @media only screen and (max-width: 500px) and (min-width: 341px){
     .all{
+        flex-direction: column;
         margin: 2rem 2rem;
     }
     .quienes-conteiner h1{
@@ -55,10 +56,10 @@
     }
     
     .imagen-quienes{
-        width: 150px;
-        height: 150px;
-        margin-top: 10rem;
-        width: 50%;
+        width: 300px;
+        height: 300px;
+        margin-top: 30px;
+
     }
     
 }
