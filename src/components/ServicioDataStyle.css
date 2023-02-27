@@ -3,20 +3,30 @@
     display: flex;
 }
 .quienes-conteiner{
-    justify-content: start;
-    flex-direction: column;
+    justify-content: center;
 }
 .quienes-conteiner h1{
-    padding-bottom: 1rem;
+    color: #222;
+    padding-bottom: 0.5rem;
     font-size: 2.2rem;
     display: flex;
-    align-items: start;
+    justify-content: center;
+    align-items: center;
     margin-top: 4.5rem;
     width: 1000px;
 
 }
+.quienes-conteiner ul li{
+    padding-bottom: 0.5rem;
+    padding-top: 10px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    padding-left: 2rem;
+}
 .quienes-conteiner p {
-    padding-bottom: 2rem;
+    padding-bottom: 0.5rem;
     font-size: 1.2rem;
     display: flex;
     align-items: start;
@@ -25,26 +35,35 @@
     width: 1000px;
 }
 .imagen-quienes{
-    width: 450px;
+    width: 390px;
     margin-left: 25px;
-    margin-top: 100px;
-
-
+    margin-top: 90px;
 }
 @media only screen and (max-width: 500px) and (min-width: 341px){
     .all{
         flex-direction: column;
         margin: 2rem 2rem;
     }
+    
     .quienes-conteiner h1{
-        padding-bottom: 0.2rem;
+        padding-bottom: 1rem;
         font-size: 20px;
-        align-items: start;
-        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
         margin-top: 2px;
         width: 341px;
     
     }
+    .quienes-conteiner ul li{
+        font-size: 1rem;
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+        text-align: start;
+        padding-left: 1rem;
+        width: 341px;
+    }
+    
     .quienes-conteiner p{
         padding-bottom: 1rem;
         font-size: 15px;

@@ -40,20 +40,20 @@ const Footer = () =>{
                 </div>
                 <div>
                     <h4>Contacto</h4>
-                    <a href="">
+                    <a href="https://www.google.com/maps/place/Bah%C3%ADa+Blanca,+Provincia+de+Buenos+Aires/data=!4m2!3m1!1s0x95edbcabdc1302bd:0x76d1d88d241e7a11?sa=X&ved=2ahUKEwjm0IiJ17b9AhWQq5UCHXjjBE8Q8gF6BAgOEAI" target="_blank">
                     <i class="fa-solid fa-location-dot" />
                        <> </>
                        Bahia Blanca, Argentina
                     </a>
-                    <a href="">
+                    <a href="https://wa.me/5492915042795" target="_blank">
                      <i class="fa-solid fa-phone" />
                        <> </>
                        2915042795
                     </a>
-                    <a href="">
-                    <i class="fa-solid fa-envelope" />
+                    <a href="mailto:diegopalmadiegopalma@outlook.com?Subject=Presupuesto%20para%20una%20piscina.">
+                    <i class="fa-solid fa-envelope _blank" />
                        <> </>
-                       piscinasbahia@hotmail.com
+                       diegopalmadiegopalma@outlook.com
                     </a>
 
                 </div>

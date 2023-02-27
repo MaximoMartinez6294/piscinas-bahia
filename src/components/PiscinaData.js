@@ -1,6 +1,4 @@
 import { Component } from "react";
-import Piscina1 from "../components/1.jpg"
-import Piscina2 from "../components/2.jpg"
 import "./PiscinaStyle.css"
 
 class PiscinaData extends Component{
