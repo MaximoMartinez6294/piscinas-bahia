@@ -5,27 +5,31 @@ function ServicioData (){
     return(
         <div className="all">
             <div className="quienes-conteiner">
-                <h1>Servicio Técnico Piscinas</h1>
-                <p>Piscinas Bahia Blanca dispone de un servicio propio de asistencia técnica que garantiza el correcto asesoramiento necesario para conseguir el adecuado funcionamiento de la instalación de piscina.</p>
+                <h1>Algunos de nuestros trabajos</h1>
+                <p> En piscinas Bahia Blanca brindamos los siguientes servicios para garantizar la excelencia de nuestro trabajo y su máximo confort al finalizar la piscina.</p>
                 <ul>
                     <li>
-                    -Tratamientos químicos del agua.
+                    -Piscinas de hormigon.
                     </li>
                     <li>
-                    -Tratamientos físicos del agua.
+                    -Instalación de limpia fondos automáticos.
                     </li>
                     <li>
-                    -Reingeniería.
+                    -Puesta a punto de la instalación.
                     </li>
                     <li>
-                    -Adecuación de las instalaciones a la normativa vigente.
+                    -Instalación y reparación de todos los componentes de las instalaciones hidráulicas.
                     </li>
                     <li>
-                    -Presupuestos para la mejora de las instalaciones.
+                    -Limpieza y tratamientos de alguicidas del vaso de piscina.
+                    </li>
+                    <li>
+                    -Asesoramiento profesional.
+                    </li>
+                    <li>
+                    -Luces led.
                     </li>
                 </ul>
-                <p>Contamos con personal propio preparado para resolver cualquier problema con absoluta rapidez.</p>
-                <p>Los materiales y equipos utilizados en nuestros montajes son de primeras marcas con amplia experiencia y garantía.</p>
             </div>
             <img className="imagen-quienes" src={imgb} alt="img" />
         </div>

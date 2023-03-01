@@ -24,7 +24,7 @@ class Navbar extends Component {
           {MenuItems.map((item, index) => {
             return (
               <li key={index}>
-                <Link className={item.cName} to={item.url}>
+                <Link className={item.cName} reloadDocument to={item.url}>
                   <i className={item.icon}></i>
                   {item.title}
                 </Link>
