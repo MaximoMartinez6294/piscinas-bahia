@@ -2,6 +2,9 @@
     margin: 4rem 6rem;
     display: flex;
 }
+.animate__fadeIn{
+    animation-duration: 2s;
+}
 .quienes-conteiner{
     justify-content: start;
     flex-direction: column;
@@ -28,7 +31,8 @@
     width: 450px;
     margin-left: 25px;
     margin-top: 100px;
-
+    animation: fadeIn;
+    animation-duration: 2s;
 
 }
 @media only screen and (max-width: 500px) and (min-width: 341px){

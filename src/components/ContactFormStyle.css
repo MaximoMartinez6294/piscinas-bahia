@@ -1,6 +1,8 @@
 .from-container{
     margin: 4rem 6rem;
     color: #2a2a2a;
+    animation: fadeIn;
+    animation-duration: 2s;
 }
 
 .from-container form{

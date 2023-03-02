@@ -1,4 +1,5 @@
 import "./HeroStyles.css";
+import 'animate.css';
 
 
 function Hero (props){
@@ -7,8 +8,8 @@ function Hero (props){
       <div className={props.cName}>
          <img alt="HeroImg" src={props.heroImg}/>      
         <div className="hero-text">
-          <h1>{props.title}</h1> 
-          <p>{props.text}</p> 
+          <h1 className="animate__fadeInLeft">{props.title}</h1> 
+          <p className="animate__slideInRight">{props.text}</p> 
         </div>
       </div> 
        </>

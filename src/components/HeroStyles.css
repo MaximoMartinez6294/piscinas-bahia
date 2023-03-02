@@ -32,7 +32,12 @@ img{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
+.animate__slideInRight{
+    animation-duration: 1.20s;
+}
+.animate__fadeInLeft{
+    animation-duration: 1.20s;
+}
 .hero-text p {
     font-size: 1.3rem;
     color: #fff;

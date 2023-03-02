@@ -15,6 +15,8 @@
     text-align: center;
     margin-top: 4rem;
     width: 1000px;
+    animation: fadeIn;
+    animation-duration: 2s;
 
 }
 .quienes-conteiner2 ul li{
@@ -31,12 +33,16 @@
     text-align: start;
     padding-left: 2rem;
     width: 1000px;
+    animation: fadeIn;
+    animation-duration: 2s;
 }
 .imagen-quienes2{
     width: 380px;
     padding-top: 7rem;
     display: flex;
     justify-content: start;
+    animation: fadeIn;
+    animation-duration: 2s;
 }
 @media only screen and (max-width: 500px) and (min-width: 341px){
     .all{
