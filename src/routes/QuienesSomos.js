@@ -2,6 +2,8 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer"
 import Quienes from "../components/QuienesSomos";
+import Var from "../components/Var";
+import Clientes from "../components/Clientes";
 
 function QuienesSomos (){
    return (
@@ -13,6 +15,8 @@ function QuienesSomos (){
         title="Quiénes somos"
         />
         <Quienes />
+        <Var />
+        <Clientes />
         <Footer />
       </>
    )

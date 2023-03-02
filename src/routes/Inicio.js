@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar";
 import Piscina from "../components/Piscina";
 import Footer from "../components/Footer"
 import BotonWp from "../components/botonwp";
+import Var from "../components/Var";
 
 function Inicio (){
  return (
@@ -18,6 +19,7 @@ function Inicio (){
       />
       <BotonWp/>
       <Piscina />
+      <Var />
       <Clientes />
       <Footer />
     </>

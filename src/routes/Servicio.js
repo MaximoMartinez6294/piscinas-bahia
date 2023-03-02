@@ -4,6 +4,7 @@ import Footer from "../components/Footer"
 import Clientes2 from "../components/Clientes2";
 import ServicioData from "../components/ServicioData";
 import ServicioData2 from "../components/ServicioData2";
+import Var from "../components/Var";
 
 function Servicio (){
    return (
@@ -16,6 +17,7 @@ function Servicio (){
         />
         <ServicioData2 />
         <ServicioData />
+        <Var />
         <Clientes2 />
         <Footer />
       </>
