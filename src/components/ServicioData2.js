@@ -9,26 +9,24 @@ function ServicioData2 (){
             <div className="quienes-conteiner2">
                 <h1>Servicio Técnico Piscinas</h1>
 
-                <p>Piscinas Bahia Blanca dispone de un servicio propio de asistencia técnica que garantiza el correcto asesoramiento necesario para conseguir el adecuado funcionamiento de la instalación de piscina.</p>
+                <p>Disponemos de un servicio técnico propio que garantiza el correcto asesoramiento necesario para conseguir el adecuado funcionamiento de tu piscina. Contamos con:</p>
                 <ul>
                     <li>
-                    -Tratamientos químicos del agua.
+                    -Reformas.
                     </li>
                     <li>
-                    -Tratamientos físicos del agua.
+                    -Construccion.
                     </li>
                     <li>
-                    -Reingeniería.
+                    -Instalacion de bombas.
                     </li>
                     <li>
-                    -Adecuación de las instalaciones a la normativa vigente.
+                    -Excavación.
                     </li>
-                    <li>
-                    -Presupuestos para la mejora de las instalaciones.
-                    </li>
+
                 </ul>
-                <p>Contamos con personal propio preparado para resolver cualquier problema con absoluta rapidez.</p>
-                <p>Los materiales y equipos utilizados en nuestros montajes son de primeras marcas con amplia experiencia y garantía.</p>
+
+                <p>Los materiales y equipos utilizados en nuestras piscinas son de primeras marcas y calidad.</p>
             </div>
         </div>
     )

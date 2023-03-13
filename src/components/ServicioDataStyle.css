@@ -22,12 +22,12 @@
     display: flex;
     align-items: start;
     justify-content: space-between;
-    font-size: 1.2rem;
+    font-size: 25px;
     padding-left: 2rem;
 }
 .quienes-conteiner p {
     padding-bottom: 0.5rem;
-    font-size: 1.2rem;
+    font-size: 25px;
     display: flex;
     align-items: start;
     text-align: start;

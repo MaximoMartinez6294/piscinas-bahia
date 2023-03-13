@@ -51,7 +51,6 @@ function ContactForm (){
                 onChange={handleInputChange}
                 required 
                 >
-
                 </textarea>
                 <button onClick={notify}>Enviar mail</button>
             </form>

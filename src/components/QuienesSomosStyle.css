@@ -2,9 +2,6 @@
     margin: 4rem 6rem;
     display: flex;
 }
-.animate__fadeIn{
-    animation-duration: 2s;
-}
 .quienes-conteiner{
     justify-content: start;
     flex-direction: column;
@@ -13,24 +10,26 @@
     padding-bottom: 1rem;
     font-size: 2.2rem;
     display: flex;
+    animation: fadeIn;
+    animation-duration: 2s;
     align-items: start;
     margin-top: 4.5rem;
     width: 1000px;
 
 }
-.quienes-conteiner p {
+.quienes-conteiner .parrafo {
     padding-bottom: 2rem;
-    font-size: 1.2rem;
+    font-size: 25px;
     display: flex;
     align-items: start;
     text-align: start;
     padding-left: 2rem;
     width: 1000px;
 }
-.imagen-quienes{
+.all .imagen-quienes{
     width: 450px;
-    margin-left: 25px;
-    margin-top: 100px;
+    margin-left: 20px;
+    margin-top: 55px;
     animation: fadeIn;
     animation-duration: 2s;
 

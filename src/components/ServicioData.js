@@ -12,16 +12,7 @@ function ServicioData (){
                     -Piscinas de hormigon.
                     </li>
                     <li>
-                    -Instalación de limpia fondos automáticos.
-                    </li>
-                    <li>
                     -Puesta a punto de la instalación.
-                    </li>
-                    <li>
-                    -Instalación y reparación de todos los componentes de las instalaciones hidráulicas.
-                    </li>
-                    <li>
-                    -Limpieza y tratamientos de alguicidas del vaso de piscina.
                     </li>
                     <li>
                     -Asesoramiento profesional.
@@ -29,7 +20,17 @@ function ServicioData (){
                     <li>
                     -Luces led.
                     </li>
+                    <li>
+                    -Cascadas.
+                    </li>
+                    <li>
+                    -Asesoramiento profesional.
+                    </li>
+                    <li>
+                    -Climatización.
+                    </li>
                 </ul>
+                <p>Estamos a tu disposición!</p>
             </div>
             <img className="imagen-quienes" src={imgb} alt="img" />
         </div>
