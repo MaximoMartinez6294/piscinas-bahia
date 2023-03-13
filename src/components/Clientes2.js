@@ -27,6 +27,10 @@ import Cliente24 from "../components/28.jpg"
 import Cliente25 from "../components/29.jpg"
 import Cliente26 from "../components/30.jpg"
 import Cliente27 from "../components/31.jpg"
+import Cliente28 from "../components/32.jpg"
+import Cliente29 from "../components/33.jpg"
+import Cliente30 from "../components/34.jpg"
+
 
 import Reforma1 from "../components/1R.jpg"
 import Reforma2 from "../components/2R.jpg"
@@ -38,7 +42,7 @@ import Reforma6 from "../components/6R.jpg"
 function Clientes2(){
     return(
         <div className="clientes">
-            <h1>Nuestros Clientes</h1>
+            <h1 href="#galeria">Nuestros Clientes</h1>
             <div className="clientescard">
                 <ClientesData
                 image={Cliente1}
@@ -140,8 +144,19 @@ function Clientes2(){
                 image={Cliente27}
                 />
             </div>
+            <div className="clientescard">
+                <ClientesData
+                image={Cliente28}
+                />
+                <ClientesData
+                image={Cliente29}
+                />
+                <ClientesData
+                image={Cliente30}
+                />
+            </div>
 
-          <h1>Reformas</h1>
+          <h1 href="#reformas">Reformas</h1>
            <div className="clientescard">
                 <ClientesData
                 image={Reforma1}
