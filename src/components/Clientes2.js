@@ -43,7 +43,6 @@ function Clientes2(){
     return(
         <div className="clientes">
             <h1 href="/galeria">Nuestros Clientes</h1>
-                <p>Trabajamos siempre para darle lo mejor a nuestros clientes!</p>
             <div className="clientescard">
                 <ClientesData
                 image={Cliente1}
