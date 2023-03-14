@@ -17,7 +17,7 @@ const Footer = () =>{
                     <a href="https://www.facebook.com/profile.php?id=100049663400616" target="_blank">
                         <i className="fa-brands fa-facebook-square"></i>
                     </a>
-                    <a href="https://www.tiktok.com/@diegopalma393" target="_blank">
+                    <a href="" target="_blank">
                         <i class="fa-brands fa-tiktok"></i>
                     </a>
                     

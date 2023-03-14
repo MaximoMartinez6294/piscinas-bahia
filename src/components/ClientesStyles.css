@@ -5,6 +5,9 @@
 .clientes h1{
     font-size: 3rem;
 }
+.clientes p{
+    font-size: 20px;
+}
 .clientescard {
     margin-top: 3rem;
     display: flex;

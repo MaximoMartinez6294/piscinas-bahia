@@ -1,22 +1,46 @@
-.contactor{
+.contactor2{
     padding: 80px 0 100px 0;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3) ),
-    url("./fondo.jpg");
+    url("./fondo2.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
 }
-.contactor h1{
+.contactor2 h1{
     text-transform: uppercase;
     font-size: 20px;
     color: aliceblue;
 }
-.contactor h2{
+.contactor2 h2{
     color: aliceblue;
     font-size: 20px;
+    padding-bottom: 15px;
 }
-.contactor a{
+.contactor2 a{
     text-decoration: none;
-    color: yellow;
+    color: #4d7f8b;
+}
+.btn{
+text-decoration: none;
+display: inline-block;
+font-weight: bold;
+padding: 8px 20px;
+border-radius: 10px;
+background: #fff;
+font-size: 1rem;
+z-index: 9;
+cursor: pointer;
+text-transform: uppercase;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-property: box-shadow, transform;
+transition-property: box-shadow, transform;
+}
+
+.btn:hover, .btn:focus, .btn:active{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }

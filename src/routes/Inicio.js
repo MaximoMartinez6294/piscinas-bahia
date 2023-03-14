@@ -5,6 +5,7 @@ import Piscina from "../components/Piscina";
 import Footer from "../components/Footer"
 import BotonWp from "../components/botonwp";
 import Var from "../components/Var";
+import VarGalery from "../components/VarGalery";
 
 function Inicio (){
  return (
@@ -21,6 +22,7 @@ function Inicio (){
       <Piscina />
       <Var />
       <Clientes />
+      <VarGalery />
       <Footer />
     </>
  )
