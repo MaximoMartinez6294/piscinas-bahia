@@ -6,6 +6,7 @@ import Footer from "../components/Footer"
 import BotonWp from "../components/botonwp";
 import Var from "../components/Var";
 import VarGalery from "../components/VarGalery";
+import AntesFooter from "../components/AntesFoter";
 
 function Inicio (){
  return (
@@ -23,6 +24,7 @@ function Inicio (){
       <Var />
       <Clientes />
       <VarGalery />
+      <AntesFooter />
       <Footer />
     </>
  )

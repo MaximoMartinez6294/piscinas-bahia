@@ -1,4 +1,4 @@
-import "./ClientesStyles.css"
+import "./Clientes2Style.css"
 import ClientesData from "./ClientesData";
 import Cliente1 from "../components/5.jpg"
 import Cliente2 from "../components/6.jpg"
@@ -41,7 +41,7 @@ import Reforma6 from "../components/6R.jpg"
 
 function Clientes2(){
     return(
-        <div className="clientes">
+        <div className="clientes4">
             <h1 href="/galeria">Nuestros Clientes</h1>
             <div className="clientescard">
                 <ClientesData

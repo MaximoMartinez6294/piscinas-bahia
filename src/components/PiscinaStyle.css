@@ -59,11 +59,31 @@
     .piscina{
         margin: 4rem 2rem;
     }
+    .piscina h1 {
+        color: #222;
+        font-size: 45px;
+    }
+    .des-text h2 {
+        color: #222;
+        font-size: 25px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .first-des p {
+        font-size: 18px;
+        text-align: center;
+    }
     .first-des{
         display: flex;
         flex-direction: column-reverse;
         margin-top: 4.5rem;
     }
+
+    .piscina p {
+        font-size: 18px;
+        text-align: center;
+    }    
+
     .first-des-reverse {
         display: flex;
         flex-direction: column-reverse;

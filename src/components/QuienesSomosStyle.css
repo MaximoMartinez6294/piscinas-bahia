@@ -41,7 +41,7 @@
     }
     .quienes-conteiner h1{
         padding-bottom: 0.2rem;
-        font-size: 45px;
+        font-size: 25px;
         align-items: start;
         justify-content: space-between;
         margin-top: 2px;
@@ -50,7 +50,7 @@
     }
     .quienes-conteiner .parrafo{
         padding-bottom: 1rem;
-        font-size: 20px;
+        font-size: 15px;
         align-items: center;
         justify-content: space-between;
         text-align: start;
@@ -58,6 +58,7 @@
         width: 341px;
     }
     
+
     .all .imagen-quienes{
         width: 300px;
         height: 300px;

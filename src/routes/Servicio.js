@@ -5,6 +5,7 @@ import Clientes2 from "../components/Clientes2";
 import ServicioData from "../components/ServicioData";
 import ServicioData2 from "../components/ServicioData2";
 import Var from "../components/Var";
+import AntesFoter from "../components/AntesFoter";
 
 function Servicio (){
    return (
@@ -19,6 +20,7 @@ function Servicio (){
         <ServicioData />
         <Var />
         <Clientes2 />
+        <AntesFoter />
         <Footer />
       </>
    )

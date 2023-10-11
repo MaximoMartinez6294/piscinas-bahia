@@ -3,7 +3,8 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer"
 import Quienes from "../components/QuienesSomos";
 import Var from "../components/Var";
-import Clientes from "../components/Clientes";
+import Clientes from "../components/clientescard3";
+import AntesFooter from "../components/AntesFoter";
 
 function QuienesSomos (){
    return (
@@ -17,6 +18,7 @@ function QuienesSomos (){
         <Quienes />
         <Var />
         <Clientes />
+        <AntesFooter />
         <Footer />
       </>
    )

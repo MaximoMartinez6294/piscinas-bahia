@@ -1,8 +1,10 @@
 .footer{
-    padding: 2rem 4rem;
+    padding: 4rem 4rem;
     background-color: #20aad8;
     color: #fff;
 }
+
+
 .Logo{
     width: 250px;
     cursor: pointer;

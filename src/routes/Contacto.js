@@ -2,6 +2,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer"
 import ContactForm from "../components/ContactForm";
+import AntesFoter from "../components/AntesFoter";
 
 function Contacto (){
    return (
@@ -13,6 +14,7 @@ function Contacto (){
         title="Contacto"
         />
         <ContactForm />
+        <AntesFoter/>
         <Footer />
       </>
    )

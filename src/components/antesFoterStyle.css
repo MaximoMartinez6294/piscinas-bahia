@@ -1,0 +1,13 @@
+.spacer {
+    padding: 7rem 4rem;
+    aspect-ratio: 1100/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+
+}
+.layer1{
+    background-image: url("./wave-haikei\ \(3\).svg");
+    
+}

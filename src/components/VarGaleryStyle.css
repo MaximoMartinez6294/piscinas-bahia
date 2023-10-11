@@ -1,11 +1,12 @@
 .contactor2{
-    padding: 80px 0 100px 0;
+    padding: 160px 0 100px 0;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3) ),
     url("./fondo2.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
+    margin-bottom: -460px;
 }
 .contactor2 h1{
     text-transform: uppercase;
@@ -44,3 +45,18 @@ transition-property: box-shadow, transform;
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+@media only screen and (max-width: 500px) and (min-width: 341px){
+   .contactor2{
+    margin-bottom: -260px;
+   }
+   .contactor2 h1 {
+    margin-bottom: 9px;
+   }
+   .contenido-var2 {
+    padding-bottom: 65px;
+   }
+   .btn{
+    margin-bottom: 30px;
+   }
+ }

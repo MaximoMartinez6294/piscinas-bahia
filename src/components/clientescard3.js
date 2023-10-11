@@ -4,9 +4,9 @@ import Cliente1 from "../components/5.jpg"
 import Cliente2 from "../components/6.jpg"
 import Cliente3 from "../components/7.jpg"
 
-function Clientes(){
+function clientescard3(){
     return(
-        <div className="clientes">
+        <div className="clientes3">
             <h1>Algunos de nuestros clientes</h1>
             <div className="clientescard">
                 <ClientesData
@@ -24,4 +24,4 @@ function Clientes(){
     );
 }
 
-export default Clientes;
+export default clientescard3;
