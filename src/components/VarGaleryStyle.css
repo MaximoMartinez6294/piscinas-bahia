@@ -48,7 +48,7 @@ transition-property: box-shadow, transform;
 
 @media only screen and (max-width: 500px) and (min-width: 341px){
    .contactor2{
-    margin-bottom: -162px;
+    margin-bottom: -277px;
     background-image:
     url("./fondo2.jpg");
    }
