@@ -1,3 +1,7 @@
+*{
+    overflow: hidden;
+}
+
 .spacer {
     padding: 7rem 4rem;
     aspect-ratio: 1100/300;
