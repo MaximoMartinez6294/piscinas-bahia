@@ -2,9 +2,8 @@
     padding: 4rem 4rem;
     background-color: #20aad8;
     color: #fff;
+    overflow: hidden;
 }
-
-
 .Logo{
     width: 250px;
     cursor: pointer;
