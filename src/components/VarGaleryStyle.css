@@ -51,6 +51,7 @@ transition-property: box-shadow, transform;
     margin-bottom: -277px;
     background-image:
     url("./fondo2.jpg");
+    background-size: cover;
    }
    .contactor2 h1 {
     margin-bottom: 9px;

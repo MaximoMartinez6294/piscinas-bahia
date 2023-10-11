@@ -29,6 +29,26 @@
 
 .from-container button{
     display: inline;
+    background: #20AAD8;;
+    border: 0;
+    text-transform: uppercase;
+    padding: 1em;
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+    cursor: pointer;
+}
+
+.from-container button:hover,
+.from-container button:focus {
+    background: #0f8cb6;
+    color: #fff;
+    transition: background-color 1s ease-out;
+    outline: 0;
 }
 
 @media only screen and (max-width: 500px) and (min-width: 341px){
