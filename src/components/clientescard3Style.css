@@ -54,3 +54,11 @@
     margin: 0.1rem;
    }
 }
+
+@media (max-width: 376px) {
+
+    .clientes3 {
+        margin: 1rem 0rem;
+    }
+}
+
