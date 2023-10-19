@@ -91,3 +91,46 @@
     }
     
 }
+
+@media (max-width: 376px) {
+    .imagen-quienes2 {
+        display: flex;
+        margin-bottom: 15px;
+        margin-left: -5px;
+        padding-top: 10px;
+        width: 300px;
+    }
+
+    .quienes-conteiner2 p {
+        align-items: center;
+        font-size: 15px;
+        padding-bottom: 1rem;
+        width: 310px;
+        margin-left: 3px;
+    }
+
+    .quienes-conteiner h1 {
+        align-items: center;
+        font-size: 20px;
+        justify-content: center;
+        margin-top: 2px;
+        padding-bottom: 1rem;
+        width: 301px;
+    }
+
+    .quienes-conteiner p {
+        align-items: center;
+        font-size: 15px;
+        padding-bottom: 1rem;
+        width: 295px;
+    }
+
+    .all .imagen-quienes {
+        height: 300px;
+        margin-top: 30px;
+        margin-left: -3px;
+        width: 300px;
+    }
+
+
+}

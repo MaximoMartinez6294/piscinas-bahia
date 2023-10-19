@@ -48,3 +48,9 @@
     margin: 0.1rem;
    }
 }
+
+@media (max-width: 376px) { 
+    .clientes4 {
+        margin: 4rem 0rem;
+    }
+}
