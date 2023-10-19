@@ -49,3 +49,12 @@
    }
 }
 
+@media (max-width: 376px) {
+
+    .clientes {
+        margin: 6rem 0rem;
+    }
+}
+
+
+
